@@ -1,0 +1,14 @@
+D:\F\接口\study\Pro_2012\BlogsMain\bin\Debug\BlogsMain.dll
+D:\F\接口\study\Pro_2012\BlogsMain\bin\Debug\BlogsMain.pdb
+D:\F\接口\study\Pro_2012\BlogsMain\obj\Debug\BlogsMain.csprojResolveAssemblyReference.cache
+D:\F\接口\study\Pro_2012\BlogsMain\obj\Debug\BlogsMain.dll
+D:\F\接口\study\Pro_2012\BlogsMain\obj\Debug\BlogsMain.pdb
+D:\F\接口\study\Pro_2012\BlogsMain\bin\Debug\TaskPlugin.dll
+D:\F\接口\study\Pro_2012\BlogsMain\bin\Debug\TaskPlugin.pdb
+D:\F\接口\study\git\Task.MainForm\BlogsMain\bin\Debug\BlogsMain.dll
+D:\F\接口\study\git\Task.MainForm\BlogsMain\bin\Debug\BlogsMain.pdb
+D:\F\接口\study\git\Task.MainForm\BlogsMain\bin\Debug\TaskPlugin.dll
+D:\F\接口\study\git\Task.MainForm\BlogsMain\bin\Debug\TaskPlugin.pdb
+D:\F\接口\study\git\Task.MainForm\BlogsMain\obj\Debug\BlogsMain.csprojResolveAssemblyReference.cache
+D:\F\接口\study\git\Task.MainForm\BlogsMain\obj\Debug\BlogsMain.dll
+D:\F\接口\study\git\Task.MainForm\BlogsMain\obj\Debug\BlogsMain.pdb

@@ -1,0 +1,8 @@
+D:\F\接口\study\Pro_2012\Task.Plugin\bin\Debug\TaskPlugin.dll
+D:\F\接口\study\Pro_2012\Task.Plugin\bin\Debug\TaskPlugin.pdb
+D:\F\接口\study\Pro_2012\Task.Plugin\obj\Debug\TaskPlugin.dll
+D:\F\接口\study\Pro_2012\Task.Plugin\obj\Debug\TaskPlugin.pdb
+D:\F\接口\study\git\Task.MainForm\Task.Plugin\bin\Debug\TaskPlugin.dll
+D:\F\接口\study\git\Task.MainForm\Task.Plugin\bin\Debug\TaskPlugin.pdb
+D:\F\接口\study\git\Task.MainForm\Task.Plugin\obj\Debug\TaskPlugin.dll
+D:\F\接口\study\git\Task.MainForm\Task.Plugin\obj\Debug\TaskPlugin.pdb

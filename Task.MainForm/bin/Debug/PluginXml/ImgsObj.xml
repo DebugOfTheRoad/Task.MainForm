@@ -1,0 +1,18 @@
+﻿<!--
+  1.xml配置模板
+  2.utf-8文件
+  3.复制到程序根目录下面PluginXml文件夹下
+  4.每个任务建议创建和程序dll名称相同xml配置文件
+-->
+<TaskMain>
+  <!--固定：执行任务时间计时器（分钟）-->
+  <Timer>2</Timer>
+  <!--固定：任务名称-->
+  <Name>获取图片信息</Name>
+<!--固定：描述-->
+  <Des>获取图片信息</Des>
+  <!--自定义：其他配置信息-->
+  <Other>
+    <ShenNiuBuXing3>神牛步行3</ShenNiuBuXing3>
+  </Other>
+</TaskMain>

@@ -1,0 +1,4 @@
+D:\F\接口\study\Pro_2012\Task.Plugin\bin\Debug\Task.Plugin.dll
+D:\F\接口\study\Pro_2012\Task.Plugin\bin\Debug\Task.Plugin.pdb
+D:\F\接口\study\Pro_2012\Task.Plugin\obj\Debug\Task.Plugin.dll
+D:\F\接口\study\Pro_2012\Task.Plugin\obj\Debug\Task.Plugin.pdb
